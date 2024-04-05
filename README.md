@@ -1,13 +1,13 @@
 # NGUIExtension
 
 ## ReuseGrid
-can reuse the cell objects in grid with scroll view
+Can reuse the cell objects in grid with scroll view
 
 ## ReuseTable
-can reuse the cell objects in table with scroll view
+Can reuse the cell objects in table with scroll view
 
 ## UIRadioGroup
-can use toggles like radio group
+Can use toggles like radio group
 
 ## UIToggleGroup
-multiple selection among toggles using bitwise operation
+Multiple selection among toggles using bitwise operation
